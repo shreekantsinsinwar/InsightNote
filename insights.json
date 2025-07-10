@@ -1,0 +1,44 @@
+[
+  {
+    "type": "Idea",
+    "title": "Day-11",
+    "details": "How about using AI in the next tool. The only thing that bothers me is AI technlogy is being run by giant companies and I am not sure how much of user's privacy will be protected!",
+    "tags": "31Tool31Days, AI_Concerns",
+    "timestamp": "2025-07-10 14:13:51"
+  },
+  {
+    "type": "Quote",
+    "title": "Perception",
+    "details": "Adversity is a privilege",
+    "tags": "Volk",
+    "timestamp": "2025-07-10 14:17:52"
+  },
+  {
+    "type": "Contact",
+    "title": "Thomas Alba Edission",
+    "details": "+1234567890",
+    "tags": "Thomas",
+    "timestamp": "2025-07-10 14:19:31"
+  },
+  {
+    "type": "Concept",
+    "title": "Cosine Similarity",
+    "details": "In data analysis, cosine similarity is a measure of similarity between two non-zero vectors defined in an inner product space. Cosine similarity is the cosine of the angle between the vectors; that is, it is the dot product of the vectors divided by the product of their lengths.",
+    "tags": "Aligning_Smilarities_Differences",
+    "timestamp": "2025-07-10 14:34:42"
+  },
+  {
+    "type": "Quote",
+    "title": "Action",
+    "details": "However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?",
+    "tags": "Buddha",
+    "timestamp": "2025-07-10 14:57:40"
+  },
+  {
+    "type": "Idea",
+    "title": "Day-11",
+    "details": "How about a tracker that can open up all your files and folders which you had been using before shutting down you PC?\nIt might help.\nFeature:\n- keep the history of what was opened.\n- On starting the pc the app should start as well (this might be a little difficult to achieve in MacOS)\n- Give two options to open up the entire history before last shutdown or selected files/folders",
+    "tags": "31Tools31Days",
+    "timestamp": "2025-07-10 15:14:42"
+  }
+]
